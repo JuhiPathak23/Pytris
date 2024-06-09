@@ -4,13 +4,11 @@
 🚀 Embark on a nostalgic journey back to the days of classic gaming with PyTris! 🕹️ Built using Python and Pygame, this rendition of the timeless Tetris game brings back the joy of fitting blocks together in a fast-paced, addictive puzzle experience.
 
 <p align="center">
-  <img src="[https://example.com/your-image.jpg](https://github.com/JuhiPathak23/Pytris/assets/73741643/9e9439f4-8fba-4aa4-b088-81e7de50fcce)" alt="Your Image Description">
+  <img src="https://github.com/JuhiPathak23/Pytris/assets/73741643/9e9439f4-8fba-4aa4-b088-81e7de50fcce" alt="PyTris">
 </p>
-
-![Screenshot 2024-06-10 002231](https://github.com/JuhiPathak23/Pytris/assets/73741643/9e9439f4-8fba-4aa4-b088-81e7de50fcce)
-
-![Screenshot 2024-06-10 002013](https://github.com/JuhiPathak23/Pytris/assets/73741643/0a844671-38c2-4f2e-b275-961a2f9e90be)
-
+<p align="center">
+  <img src="https://github.com/JuhiPathak23/Pytris/assets/73741643/0a844671-38c2-4f2e-b275-961a2f9e90be" alt="PyTris">
+</p>
 
 ## Features:
 🌟 Authentic Gameplay: Experience the thrill of the original Tetris gameplay, complete with falling blocks and clearing lines!
